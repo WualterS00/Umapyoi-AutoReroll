@@ -95,9 +95,9 @@
 1. **Run as Administrator**: Right-click `UmapyoiAutoReroll.exe` → "Run as administrator"
 2. **Language Selection**: Choose your preferred language
 3. **Discord Setup**: 
-   - Create a Discord webhook in your server
-   - Paste the webhook URL in bot settings
-   - Test the connection
+   - Simply log into your Discord account when prompted
+   - The bot will automatically connect to your Discord
+   - No additional configuration needed
 4. **Target Configuration**:
    - Select your desired SSR cards
    - Configure character settings (name, gender, country, birthday)
@@ -130,9 +130,9 @@
 1. **Ejecutar como Administrador**: Clic derecho en `UmapyoiAutoReroll.exe` → "Ejecutar como administrador"
 2. **Selección de Idioma**: Elige tu idioma preferido
 3. **Configuración Discord**: 
-   - Crea un webhook de Discord en tu servidor
-   - Pega la URL del webhook en la configuración del bot
-   - Prueba la conexión
+   - Simplemente inicia sesión en tu cuenta de Discord cuando se te solicite
+   - El bot se conectará automáticamente a tu Discord
+   - No necesitas configuración adicional
 4. **Configuración de Objetivos**:
    - Selecciona tus cartas SSR deseadas
    - Configura ajustes del personaje (nombre, género, país, fecha de nacimiento)
@@ -245,11 +245,11 @@ graph TD
 #### **📱 Discord Notification Failures**
 **Problem**: Discord notifications not working
 **Solutions**:
-- Verify webhook URL is correct
-- Test webhook using online tools
-- Check Discord server permissions
-- Ensure bot has internet access
-- Verify webhook channel exists
+- Ensure you're logged into Discord
+- Check your Discord account permissions
+- Verify the bot has internet access
+- Restart the application and try again
+- Make sure Discord is running on your computer
 
 #### **🚀 Performance Issues**
 **Problem**: Bot running slowly or freezing
@@ -284,7 +284,7 @@ graph TD
 - **Secure Communications**: All network communications use encryption
 
 #### **Account Safety**
-- **Safe Operation**: Designed to minimize risk of account issues
+- **Safe Operation**: Designed to minimize risk of account issues by operating only through the game's user interface without modifying game files or using unauthorized methods
 - **Human-like Behavior**: Randomized actions mimic natural user patterns
 - **Graceful Shutdown**: Preserves game state when stopping
 - **Privacy First**: Your data stays on your device
