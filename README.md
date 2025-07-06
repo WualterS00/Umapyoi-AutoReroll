@@ -28,51 +28,51 @@
 
 <div align="center">
 
-| 🎯 **Intelligent Detection** | 🚀 **Lightning Fast** | 🔔 **Smart Notifications** | 🌍 **Global Support** |
+| 🎯 **Intelligent Detection** | 🚀 **Complete Automation** | 🔔 **Discord Notifications** | 🌍 **Windows Support** |
 |:---:|:---:|:---:|:---:|
-| Advanced OCR with 99.7% accuracy | Complete reroll in under 3 minutes | Discord, webhook, and email alerts | Multi-language & multi-region |
-| Detección avanzada OCR 99.7% precisa | Reroll completo en menos de 3 minutos | Alertas Discord, webhook y email | Multilenguaje y multi-región |
+| Advanced OCR card recognition | Full process automation | Instant success alerts | Windows 10/11 compatible |
+| Reconocimiento OCR avanzado | Automatización completa | Alertas instantáneas | Compatible con Windows 10/11 |
 
 </div>
 
 ### ✨ **Key Features**
 
-#### 🤖 **Automation Excellence**
-- **Complete Process Automation** - From account creation to gacha pulls
-- **Intelligent Error Recovery** - Automatically handles unexpected scenarios
-- **Smart Retry Logic** - Optimized timing prevents detection and maximizes success
-- **Background Operation** - Runs silently without interrupting your workflow
+#### 🤖 **Complete Process Automation**
+- **Total Control**: Automatically handles account creation, tutorials, and gacha pulls
+- **Background Operation**: Runs silently while you use your computer for other tasks
+- **Unlimited Attempts**: Repeats the entire process until your target cards are obtained
+- **Smart Configuration**: Choose your country, language, birthday, character name and gender easily
 
-#### 🎯 **Advanced Targeting**
-- **Multi-Card Detection** - Target multiple SSR cards simultaneously
-- **Priority System** - Rank your desired cards by preference
-- **Flexible Criteria** - Stop on any target, specific combinations, or tier rankings
-- **Custom Filters** - Advanced filtering for rarity, attributes, and more
+#### 🎯 **Advanced Card Detection**
+- **Multi-Card Selection**: Target multiple SSR cards simultaneously
+- **High Precision Recognition**: Advanced image recognition technology for accurate card detection
+- **Automatic Rewards Collection**: Collects all initial game rewards automatically
+- **Tutorial Skip**: Automatically skips tutorials, dialogues, warnings, and welcome screens
 
-#### 📊 **Real-Time Monitoring**
-- **Live Statistics** - Track attempts, success rates, and time per reroll
-- **Visual Progress** - Beautiful progress bars and real-time updates
-- **Detailed Logging** - Comprehensive logs for troubleshooting and analysis
-- **Performance Metrics** - Monitor efficiency and optimization suggestions
+#### 🔔 **Discord Integration**
+- **Instant Notifications**: Receive private Discord messages when target cards are found
+- **Rich Embeds**: Beautiful messages with card images and names
+- **Progress Updates**: Optional notifications every X attempts to track progress
+- **Quick Access Buttons**: Direct action buttons from notifications
 
-#### 🔔 **Comprehensive Notifications**
-- **Discord Integration** - Rich embeds with screenshots and detailed results
-- **Webhook Support** - Connect to any service via custom webhooks
-- **Email Alerts** - Professional email notifications with attachments
-- **Mobile Push** - Optional mobile notifications via supported services
+#### 🛡️ **Safe & Secure**
+- **No Data Storage**: Doesn't store your personal information
+- **No External Servers**: Only sends notifications you configure
+- **Privacy Protected**: Designed with user safety in mind
+- **Local Processing**: All operations performed on your device
 
 ---
 
 ## 🚀 Quick Start Guide
 
-### 📋 **System Requirements**
+### 📋 **Requirements**
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| **OS** | Windows 10 | Windows 11 |
-| **RAM** | 4GB | 8GB+ |
-| **Storage** | 100MB | 500MB |
-| **Network** | Stable Internet | High-speed connection |
+| Component | Needed |
+|-----------|---------|
+| **OS** | Windows 10/11 |
+| **Additional Software** | Tesseract OCR |
+| **Game** | Umamusume Global |
+| **Notifications** | Discord Account |
 
 ### 🛠️ **Installation**
 
@@ -100,14 +100,14 @@
    - Test the connection
 4. **Target Configuration**:
    - Select your desired SSR cards
-   - Set priority rankings
-   - Configure stopping conditions
+   - Configure character settings (name, gender, country, birthday)
+   - Set notification preferences
 
 #### Step 4: Launch & Monitor
 1. **Start the Process**: Click the "Start Rerolling" button
-2. **Monitor Progress**: Watch real-time statistics and logs
+2. **Monitor Progress**: Watch real-time status updates
 3. **Wait for Success**: The bot will notify you when targets are found
-4. **Manual Intervention**: Take control when prompted for completion
+4. **Take Control**: Manual intervention when prompted for completion
 
 </details>
 
@@ -135,14 +135,14 @@
    - Prueba la conexión
 4. **Configuración de Objetivos**:
    - Selecciona tus cartas SSR deseadas
-   - Establece rankings de prioridad
-   - Configura condiciones de parada
+   - Configura ajustes del personaje (nombre, género, país, fecha de nacimiento)
+   - Establece preferencias de notificación
 
 #### Paso 4: Lanzar y Monitorear
 1. **Iniciar el Proceso**: Haz clic en el botón "Iniciar Rerolling"
-2. **Monitorear Progreso**: Observa las estadísticas en tiempo real y los registros
+2. **Monitorear Progreso**: Observa las actualizaciones de estado en tiempo real
 3. **Esperar el Éxito**: El bot te notificará cuando encuentre los objetivos
-4. **Intervención Manual**: Toma control cuando se te solicite para completar
+4. **Tomar Control**: Intervención manual cuando se solicite para completar
 
 </details>
 
@@ -166,170 +166,26 @@ graph TD
     J -->|✅ Yes| K[🎉 Success Notification]
     J -->|❌ No| L[🔄 Account Reset]
     L --> C
-    K --> M[📊 Statistics Update]
-    M --> N[🏁 Process Complete]
+    K --> M[🏁 Process Complete]
     
     style A fill:#4ECDC4,stroke:#333,stroke-width:2px,color:#000
     style K fill:#95E1D3,stroke:#333,stroke-width:2px,color:#000
-    style N fill:#A8E6CF,stroke:#333,stroke-width:2px,color:#000
+    style M fill:#A8E6CF,stroke:#333,stroke-width:2px,color:#000
 ```
 
-### 🔧 **Advanced Features**
+### 🔧 **What Makes It Special**
 
-#### 🎯 **Intelligent Card Detection**
-- **Multi-Language OCR**: Supports English, Japanese, and other languages
-- **Template Matching**: Uses advanced image recognition for card identification
-- **Fuzzy Matching**: Handles slight variations in card appearance
-- **Confidence Scoring**: Provides accuracy ratings for detected cards
+#### 🎯 **Intelligent Operation**
+- **Automatic Tutorial Skip**: Bypasses all tutorials, dialogues, warnings, and welcome screens
+- **Smart Timing**: Optimized delays prevent detection and ensure smooth operation
+- **Error Recovery**: Handles unexpected scenarios and continues automatically
+- **Flexible Configuration**: Customizable settings for different preferences
 
-#### 🚀 **Performance Optimization**
-- **Parallel Processing**: Multiple detection algorithms run simultaneously
-- **Memory Management**: Efficient resource usage prevents crashes
-- **Network Optimization**: Minimal bandwidth usage with smart caching
-- **CPU Throttling**: Adjustable CPU usage to prevent system slowdown
-
-#### 🛡️ **Safety & Security**
-- **Anti-Detection**: Randomized timing and human-like interaction patterns
-- **Safe Shutdown**: Graceful termination preserves game state
-- **Backup Systems**: Automatic recovery from unexpected interruptions
-- **Privacy Protection**: No personal data collection or transmission
-
----
-
-## 📊 Performance Metrics
-
-<div align="center">
-
-### 🏆 **Success Statistics**
-
-| Metric | Value |
-|--------|-------|
-| **Average Success Rate** | 95.7% |
-| **Time per Reroll** | 2.3 minutes |
-| **Card Detection Accuracy** | 99.7% |
-| **Uptime Reliability** | 99.9% |
-
-### 📈 **Efficiency Comparison**
-
-| Method | Time per Reroll | Success Rate | Effort Required |
-|--------|-----------------|--------------|-----------------|
-| **Manual** | 8-12 minutes | 100% | High |
-| **Basic Bots** | 5-8 minutes | 60-80% | Medium |
-| **Umapyoi AutoReroll** | 2-3 minutes | 95.7% | None |
-
-</div>
-
----
-
-## ⚙️ Advanced Configuration
-
-### 🎯 **Target Card Management**
-
-<details>
-<summary><strong>🔧 Card Selection & Priorities</strong></summary>
-
-#### **Target Card Configuration**
-```
-Priority 1: [SSR Card Name] - Stop immediately
-Priority 2: [SSR Card Name] - Stop if no Priority 1 after X attempts
-Priority 3: [SSR Card Name] - Accept as backup option
-```
-
-#### **Advanced Filtering**
-- **Rarity Filter**: SSR, SR, R cards
-- **Attribute Filter**: Speed, Stamina, Power, Guts, Wisdom
-- **Character Filter**: Specific characters only
-- **Combination Rules**: Require multiple specific cards
-- **Exclusion Rules**: Avoid certain cards or combinations
-
-#### **Stopping Conditions**
-- **First Target**: Stop on any target card
-- **Best Target**: Stop only on Priority 1 cards
-- **Multiple Targets**: Stop when X number of targets found
-- **Time Limit**: Stop after X minutes/hours
-- **Attempt Limit**: Stop after X reroll attempts
-
-</details>
-
-### 🔔 **Notification Systems**
-
-<details>
-<summary><strong>📱 Multi-Platform Notifications</strong></summary>
-
-#### **Discord Integration**
-```json
-{
-  "webhook_url": "https://discord.com/api/webhooks/...",
-  "notification_types": {
-    "success": true,
-    "failure": false,
-    "progress": true,
-    "statistics": true
-  },
-  "rich_embeds": true,
-  "screenshot_attachments": true
-}
-```
-
-#### **Email Notifications**
-```json
-{
-  "smtp_server": "smtp.gmail.com",
-  "smtp_port": 587,
-  "email": "your_email@gmail.com",
-  "password": "your_app_password",
-  "recipients": ["notify@example.com"]
-}
-```
-
-#### **Webhook Integration**
-```json
-{
-  "custom_webhook": "https://your-service.com/webhook",
-  "method": "POST",
-  "headers": {
-    "Authorization": "Bearer your_token",
-    "Content-Type": "application/json"
-  }
-}
-```
-
-</details>
-
-### 🎮 **Game-Specific Settings**
-
-<details>
-<summary><strong>⚡ Timing & Performance Optimization</strong></summary>
-
-#### **Timing Configuration**
-```json
-{
-  "delays": {
-    "click_delay": "200-500ms",
-    "page_load": "2-5s",
-    "gacha_animation": "10-15s",
-    "text_input": "100-300ms"
-  },
-  "timeouts": {
-    "page_load": "30s",
-    "gacha_complete": "60s",
-    "country_selection": "20s"
-  }
-}
-```
-
-#### **Performance Settings**
-```json
-{
-  "cpu_usage": "medium", // low, medium, high
-  "memory_limit": "512MB",
-  "parallel_processing": true,
-  "screenshot_quality": "medium",
-  "log_level": "info" // debug, info, warning, error
-}
-```
-
-</details>
+#### 🚀 **Effortless Experience**
+- **No Manual Clicking**: Complete hands-off operation once configured
+- **Background Processing**: Use your computer normally while bot works
+- **Unlimited Persistence**: Continues until success or configured attempt limit
+- **Real-time Feedback**: Always know what the bot is doing
 
 ---
 
@@ -342,10 +198,6 @@ Priority 3: [SSR Card Name] - Accept as backup option
 <img src="https://via.placeholder.com/800x500/4ECDC4/FFFFFF?text=Main+Dashboard" alt="Main Dashboard" width="48%"/>
 <img src="https://via.placeholder.com/800x500/FF6B6B/FFFFFF?text=Configuration+Panel" alt="Configuration Panel" width="48%"/>
 
-### 📊 **Real-Time Statistics**
-
-<img src="https://via.placeholder.com/800x300/95E1D3/FFFFFF?text=Live+Statistics+Dashboard" alt="Statistics Dashboard" width="100%"/>
-
 ### 🎯 **Card Detection Results**
 
 <img src="https://via.placeholder.com/400x300/A8E6CF/FFFFFF?text=Success+Detection" alt="Success Detection" width="30%"/>
@@ -353,61 +205,6 @@ Priority 3: [SSR Card Name] - Accept as backup option
 <img src="https://via.placeholder.com/400x300/FF6B6B/FFFFFF?text=Result+Summary" alt="Result Summary" width="30%"/>
 
 </div>
-
----
-
-## 🔄 Version History & Roadmap
-
-### 📈 **Recent Updates**
-
-<details>
-<summary><strong>🆕 Version 1.2.0 (Latest) - 2024-07-05</strong></summary>
-
-#### ✨ **New Features**
-- **Enhanced OCR Engine**: 15% improvement in card detection accuracy
-- **Smart Retry Logic**: Intelligent failure recovery with learning algorithms
-- **Performance Dashboard**: Real-time monitoring and optimization suggestions
-- **Batch Processing**: Support for multiple accounts simultaneously
-- **Advanced Filtering**: New filtering options for card combinations
-
-#### 🐛 **Bug Fixes**
-- Fixed memory leak in continuous operation mode
-- Resolved Discord webhook timeout issues
-- Improved country selection reliability
-- Enhanced error handling for network interruptions
-
-#### 🚀 **Performance Improvements**
-- 25% faster average reroll time
-- 40% reduction in CPU usage
-- Improved memory management
-- Enhanced screenshot processing speed
-
-</details>
-
-<details>
-<summary><strong>🔄 Version 1.1.0 - 2024-06-15</strong></summary>
-
-#### ✨ **New Features**
-- Multi-language support (English, Spanish, Japanese)
-- Advanced notification system with rich embeds
-- Custom webhook integration
-- Performance metrics and statistics
-
-#### 🐛 **Bug Fixes**
-- Fixed card selection issues on high-DPI displays
-- Improved country selection algorithm
-- Enhanced error recovery mechanisms
-
-</details>
-
-### 🗺️ **Roadmap**
-
-| 🎯 **Upcoming Features** | 📅 **Timeline** | 🔍 **Status** |
-|--------------------------|-----------------|----------------|
-| **Mobile App Support** | Q3 2024 | 🔄 In Development |
-| **Cloud Sync & Backup** | Q4 2024 | 📋 Planned |
-| **API Integration** | Q1 2025 | 💡 Concept |
-| **Machine Learning Enhanced Detection** | Q2 2025 | 🔬 Research |
 
 ---
 
@@ -422,22 +219,6 @@ Priority 3: [SSR Card Name] - Accept as backup option
 [![Email](https://img.shields.io/badge/Email-Support-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:support@umapyoi.com)
 
 </div>
-
-### 🌟 **Community Benefits**
-
-#### 🇬🇧 **English Community**
-- **24/7 Support**: Get help anytime from our dedicated team
-- **Strategy Sharing**: Learn optimal reroll strategies from experts
-- **Early Access**: Beta testing opportunities for new features
-- **Bug Reports**: Direct line to developers for issue reporting
-- **Feature Requests**: Vote on and suggest new features
-
-#### 🇪🇸 **Comunidad Española**
-- **Soporte 24/7**: Obtén ayuda en cualquier momento de nuestro equipo dedicado
-- **Compartir Estrategias**: Aprende estrategias óptimas de reroll de expertos
-- **Acceso Temprano**: Oportunidades de prueba beta para nuevas características
-- **Reportes de Errores**: Línea directa a desarrolladores para reportar problemas
-- **Solicitudes de Características**: Vota y sugiere nuevas características
 
 ### 🔧 **Troubleshooting**
 
@@ -460,7 +241,6 @@ Priority 3: [SSR Card Name] - Accept as backup option
 - Check internet connection stability
 - Verify country is supported in game
 - Try manual country selection first
-- Adjust delay settings in configuration
 
 #### **📱 Discord Notification Failures**
 **Problem**: Discord notifications not working
@@ -475,10 +255,9 @@ Priority 3: [SSR Card Name] - Accept as backup option
 **Problem**: Bot running slowly or freezing
 **Solutions**:
 - Close unnecessary programs
-- Adjust CPU usage settings
-- Increase virtual memory
-- Check for Windows updates
 - Restart computer and try again
+- Check for Windows updates
+- Ensure sufficient disk space
 
 </details>
 
@@ -505,10 +284,10 @@ Priority 3: [SSR Card Name] - Accept as backup option
 - **Secure Communications**: All network communications use encryption
 
 #### **Account Safety**
-- **Rate Limiting**: Built-in delays prevent account flagging
-- **Human-like Behavior**: Randomized actions mimic natural user behavior
-- **Safe Shutdown**: Graceful termination preserves game state
-- **Backup Recovery**: Automatic recovery from interruptions
+- **Safe Operation**: Designed to minimize risk of account issues
+- **Human-like Behavior**: Randomized actions mimic natural user patterns
+- **Graceful Shutdown**: Preserves game state when stopping
+- **Privacy First**: Your data stays on your device
 
 ### 📜 **Terms of Use**
 
@@ -537,42 +316,7 @@ Priority 3: [SSR Card Name] - Accept as backup option
 
 ---
 
-## 🤝 Contributing & Development
-
-### 👥 **Join the Development Team**
-
-We welcome contributions from developers, designers, and testers! Here's how you can help:
-
-#### **🔧 Code Contributions**
-- **Bug Fixes**: Help us identify and fix issues
-- **Feature Development**: Implement new features and improvements
-- **Performance Optimization**: Enhance speed and efficiency
-- **Documentation**: Improve guides and documentation
-
-#### **🎨 Design Contributions**
-- **UI/UX Improvements**: Enhance user interface design
-- **Icon and Asset Creation**: Create beautiful visual elements
-- **Localization**: Help translate the software into new languages
-- **User Experience**: Suggest and implement UX improvements
-
-#### **🧪 Testing & QA**
-- **Beta Testing**: Test new features before release
-- **Bug Reporting**: Help identify and reproduce issues
-- **Performance Testing**: Test on different hardware configurations
-- **Compatibility Testing**: Ensure software works across environments
-
-### 📊 **Development Statistics**
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WualterS00&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WualterS00&layout=compact&theme=radical)
-
-</div>
-
----
-
-## 📄 License & Attribution
+## 📄 License
 
 ### 📜 **MIT License**
 
@@ -600,23 +344,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-### 🙏 **Acknowledgments**
-
-Special thanks to:
-- **Tesseract OCR Team** - For the amazing OCR engine
-- **Discord Community** - For feedback and support
-- **Beta Testers** - For helping improve the software
-- **Contributors** - For code contributions and improvements
-
 ---
 
 <div align="center">
-
-## 🌟 **Star History**
-
-[![Star History Chart](https://api.star-history.com/svg?repos=WualterS00/Umapyoi-AutoReroll&type=Date)](https://star-history.com/#WualterS00/Umapyoi-AutoReroll&Date)
-
----
 
 ### 🎉 **Thank You for Using Umapyoi AutoReroll!**
 
@@ -640,6 +370,5 @@ Special thanks to:
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/WualterS00)
 [![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tu-servidor)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_handle)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/your_channel)
 
 </div>
