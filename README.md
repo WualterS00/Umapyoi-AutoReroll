@@ -12,11 +12,11 @@
 
 <div align="center">
 
-### 🎯 **Premium Automation for Umamusume Global Rerolling**
-### 🎯 **Automatización Premium para Reroll de Umamusume Global**
+### 🎯 **Automation for Umamusume Global Rerolling**
+### 🎯 **Automatización para Reroll de Umamusume Global**
 
-*Advanced, reliable, and user-friendly reroll bot*  
-*Bot de reroll avanzado, confiable y fácil de usar*
+*Reliable and user-friendly reroll bot*  
+*Bot de reroll confiable y fácil de usar*
 
 **[📥 Download Latest Version](https://github.com/WualterS00/Umapyoi-AutoReroll/releases/latest) • [📖 Documentation](https://github.com/WualterS00/Umapyoi-AutoReroll/wiki) • [💬 Discord Community](https://discord.gg/tu-servidor)**
 
