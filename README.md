@@ -15,8 +15,8 @@
 ### 🎯 **Premium Automation for Umamusume Global Rerolling**
 ### 🎯 **Automatización Premium para Reroll de Umamusume Global**
 
-*The most advanced, reliable, and user-friendly reroll bot available*  
-*El bot de reroll más avanzado, confiable y fácil de usar disponible*
+*Advanced, reliable, and user-friendly reroll bot*  
+*Bot de reroll avanzado, confiable y fácil de usar*
 
 **[📥 Download Latest Version](https://github.com/WualterS00/Umapyoi-AutoReroll/releases/latest) • [📖 Documentation](https://github.com/WualterS00/Umapyoi-AutoReroll/wiki) • [💬 Discord Community](https://discord.gg/tu-servidor)**
 
